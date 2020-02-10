@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="560ae984-bf81-4647-a78e-6934f0759556" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../week3-059.WordsInReverseOrder/resources/META-INF/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-059.WordsInReverseOrder/src/WordsInReverseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-059.WordsInReverseOrder/src/WordsInReverseOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordsInAlphabeticalOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordsInAlphabeticalOrder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XdKGLhrSO5PQ3ei0htaTcpl82A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.week3-060.WordsInAlphabeticalOrder">
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="week3-060.WordsInAlphabeticalOrder" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="week3-060.WordsInAlphabeticalOrder" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="560ae984-bf81-4647-a78e-6934f0759556" name="Default Changelist" comment="" />
+      <created>1581370434270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581370434270</updated>
+      <workItem from="1581373529089" duration="442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="256" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581373972528">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="256" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog/62.0.1858.1080/1920.0.1360.768@62.0.1858.1080" timestamp="1581373972528" />
+    <state width="883" height="295" key="GridCell.Tab.0.bottom" timestamp="1581374190421">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="883" height="295" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.0.1360.768@62.0.1858.1080" timestamp="1581374190421" />
+    <state width="883" height="295" key="GridCell.Tab.0.center" timestamp="1581374190421">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="883" height="295" key="GridCell.Tab.0.center/62.0.1858.1080/1920.0.1360.768@62.0.1858.1080" timestamp="1581374190421" />
+    <state width="883" height="295" key="GridCell.Tab.0.left" timestamp="1581374190420">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="883" height="295" key="GridCell.Tab.0.left/62.0.1858.1080/1920.0.1360.768@62.0.1858.1080" timestamp="1581374190420" />
+    <state width="883" height="295" key="GridCell.Tab.0.right" timestamp="1581374190421">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="883" height="295" key="GridCell.Tab.0.right/62.0.1858.1080/1920.0.1360.768@62.0.1858.1080" timestamp="1581374190421" />
+  </component>
+</project>
